@@ -1,0 +1,16 @@
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\bin\Debug\net5.0\ข้อสองห้องสมุด.exe
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\bin\Debug\net5.0\ข้อสองห้องสมุด.deps.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\bin\Debug\net5.0\ข้อสองห้องสมุด.runtimeconfig.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\bin\Debug\net5.0\ข้อสองห้องสมุด.runtimeconfig.dev.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\bin\Debug\net5.0\ข้อสองห้องสมุด.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\bin\Debug\net5.0\ref\ข้อสองห้องสมุด.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\bin\Debug\net5.0\ข้อสองห้องสมุด.pdb
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.csproj.AssemblyReference.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.GeneratedMSBuildEditorConfig.editorconfig
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.AssemblyInfoInputs.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.AssemblyInfo.cs
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.csproj.CoreCompileInputs.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ref\ข้อสองห้องสมุด.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.pdb
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสองห้องสมุด\ข้อสองห้องสมุด\obj\Debug\net5.0\ข้อสองห้องสมุด.genruntimeconfig.cache

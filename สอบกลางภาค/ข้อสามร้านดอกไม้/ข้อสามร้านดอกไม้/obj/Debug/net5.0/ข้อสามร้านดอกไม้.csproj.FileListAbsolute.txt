@@ -1,0 +1,16 @@
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\bin\Debug\net5.0\ข้อสามร้านดอกไม้.exe
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\bin\Debug\net5.0\ข้อสามร้านดอกไม้.deps.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\bin\Debug\net5.0\ข้อสามร้านดอกไม้.runtimeconfig.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\bin\Debug\net5.0\ข้อสามร้านดอกไม้.runtimeconfig.dev.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\bin\Debug\net5.0\ข้อสามร้านดอกไม้.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\bin\Debug\net5.0\ref\ข้อสามร้านดอกไม้.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\bin\Debug\net5.0\ข้อสามร้านดอกไม้.pdb
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.csproj.AssemblyReference.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.GeneratedMSBuildEditorConfig.editorconfig
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.AssemblyInfoInputs.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.AssemblyInfo.cs
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.csproj.CoreCompileInputs.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ref\ข้อสามร้านดอกไม้.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.pdb
+D:\ปี 2\Programming\สอบกลางภาค\ข้อสามร้านดอกไม้\ข้อสามร้านดอกไม้\obj\Debug\net5.0\ข้อสามร้านดอกไม้.genruntimeconfig.cache

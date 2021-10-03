@@ -1,0 +1,16 @@
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\bin\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.exe
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\bin\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.deps.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\bin\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.runtimeconfig.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\bin\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.runtimeconfig.dev.json
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\bin\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\bin\Debug\net5.0\ref\ข้อหนึ่งแฮงค์แมน.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\bin\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.pdb
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.csproj.AssemblyReference.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.GeneratedMSBuildEditorConfig.editorconfig
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.AssemblyInfoInputs.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.AssemblyInfo.cs
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.csproj.CoreCompileInputs.cache
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ref\ข้อหนึ่งแฮงค์แมน.dll
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.pdb
+D:\ปี 2\Programming\สอบกลางภาค\ข้อหนึ่งแฮงค์แมน\ข้อหนึ่งแฮงค์แมน\obj\Debug\net5.0\ข้อหนึ่งแฮงค์แมน.genruntimeconfig.cache

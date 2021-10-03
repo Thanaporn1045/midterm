@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ข้อสองห้องสมุด/1.0.0": {
+        "runtime": {
+          "ข้อสองห้องสมุด.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ข้อสองห้องสมุด/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
